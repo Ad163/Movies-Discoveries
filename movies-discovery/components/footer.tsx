@@ -54,7 +54,7 @@ const Footer = () => {
           </div>
           <div className="gap-2">
             <p className="text-sm text-muted-foreground">
-              &copy; 2021 Movies by Johnan{" "}
+              &copy; 2023 Movies by Johnan{" "}
             </p>
             <p className="text-xs text-rose-700 text-muted-foreground">
               Built by{" "}
@@ -62,7 +62,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="italic underline"
-                href="https://github.com/ad163"
+                href="https://github.com/Ad163/Movies-Discoveries"
               >
                 Johnan
               </Link>{" "}
